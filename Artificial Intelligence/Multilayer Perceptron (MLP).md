@@ -1,4 +1,4 @@
-A multi-layer perceptron (MLP) is an artificial neural network that has multiple layers of neurons (including an input layer, at least one hidden layer, and an output layer). It is a feedforward network with fully connected neurons, and serves as an improvement to single-layer perceptrons. Most MLPs use activation functions such as [[ReLU – Rectifier Activation Function]] or [[Sigmoid]].
+A multi-layer perceptron (MLP) is an artificial neural network that has multiple layers of neurons (including an input layer, at least one hidden layer, and an output layer). It is a feedforward network with fully connected neurons, and serves as an improvement to single-layer perceptrons. Most MLPs use activation functions such as [[ReLU Function – Rectifier Linear Unit]] or [[Sigmoid Activation Function]].
 
 ### Input Layer
 The input layer has all the perceptrons that receive the initial input data. Every neuron in the input layer represents one dimension, and the number of neurons in the input layer is determined by the dimensionality of the input data. This layer doesn't perform any computations on the data, and they simply pass the input vaalues to the next layer.
@@ -18,7 +18,7 @@ Each connection between neurons in two consecutive layers has an associated weig
 Beside input and hidden neurons, every layer (besides the input layer!) has a bias neuron that provides an additional input to neurons in the next layer. This neuron has its own weight associated with each connection, which is learned during training. The bias neuron shifts the activation function in the next layer, changing the weights, and allowing the MLP to control the threshold for activation.
 
 ### Activation Function
-Each hidden layer in an MLP typically applies an activation function to its weighted sum of inputs to introduce non-linearity into network, allowing it to learn complex patterns in the data. Common activation functions include [[Sigmoid]], [[ReLU – Rectifier Activation Function]], [[Softmax]], [[tanh]].
+Each hidden layer in an MLP typically applies an activation function to its weighted sum of inputs to introduce non-linearity into network, allowing it to learn complex patterns in the data. Common activation functions include [[Sigmoid Activation Function]], [[ReLU Function – Rectifier Linear Unit]], [[Softmax Activation Function]], [[Hyperbolic Tangent Activation Function]].
 
 ### Backpropagation
 Backpropagation is the process of an MLP iteratively updating the weights and biases of a model to minimize an associated loss function. Essentially, the model computes gradients of a loss function by comparing the proportion of incorrect predictions and working to minimize that.
