@@ -1,5 +1,3 @@
-#fundamentals #statistics 
-
 ## Potential Problems
 
 #### Multicollinearity
