@@ -1,0 +1,33 @@
+- A new age of AI → we should prepare for a potentially different system than capitalism
+	- Capitalism has taken us pretty far up until now, but looking at the future of AI, when we get to a point where AI can do mundane, menial tasks, what do we do?
+	- Capitalism will continue to drive companies to push the limits of ethics, putting many people out of a job; however, there is also the utopia where humanity can continue to thrive, pursuing our passions while AI does menial work; capitalism will most likely push for the former, so there may need to be a shift in ideology
+	- Read Manna (Marshall Brain)
+- Skills for humans to continue to develop:
+	- AI will probably not die for at least a long while; until then, it is still a very good field to research and develop with a lot of opportunity
+	- Cybersecurity and ethics, ie. controlling and defending AI, (content filters/spam) will also be big
+	- Entrepreneurship as well; in the future, possibly in the near future, programmers will be doing less programming and more managing code and product design; Tom thinks that while AI can write code, it will be a long time until an AI can understand the nuance of human folly enough to build a well thought out and well designed product
+- AGI/AGI Regulation
+	- Consciousness is a spectrum; we wonʼt know what AGI looks like when we get it
+	- There's a spectrum of consciousness; think single-celled organism → worm → Human; it canʼt be binary or else there's a line to draw on what is conscious or not
+	- Rather, when AI gets to, say, a dog, maybe people will have more worries about ‘killingʼ AI
+	- But we are already putting LLM models in ‘suspended animationʼ by sort of pausing it, we might get used to that as an alternative to straight-up killing it
+- Eventually, AI must be regulated; like planes, we take the risk of flying on a plane because steps have been taken to ensure that the plane flights are safe
+	- If we regulate too early, we might accidentally limit innovation
+	- If we regulate too late, there might be too many consequences/deaths
+- Designing AI, do we want emotions, frustration, and boredom, in our AI? Those are things that people all have, but if we give it to AI in an attempt to get closer to AGI, it might not serve our purpose
+- AIʼs strict regulation should be relaxed for development/developers experimenting to drive that innovation, but when we get to deploying to real products, that's where regulation must be strict
+	- Many people have worried already that AI needs to be regulated more, but the regulation will always lag behind innovation to ensure said innovation.
+	- A similar lag exists between closed-source and open-source AI, but that difference in the future will have a smaller and smaller gap as computing power goes down, potentially creating a new normal where everyone has their own AGI
+- Innovation Graph
+	- A lot of innovation comes in short bursts, with many small increments after that
+		- For example, the recent transformers explosion then led to many small incremental improvements in LLMs and GenAI technology
+		- However, we donʼt know how close to the plateau we are, or how many more big bursts weʼll need to get to AGI
+- Building a startup
+	- Saw an inconvenience, room for opportunity, growing market
+		- Donʼt do something just for the hype, do it because no one else is doing it
+	- Team, always something to share
+		- Get people who have different strengths
+	- SF advantages
+		- The capital is there, but also a lot of similar competition
+		- Be aware that AI startups have maybe heard the same AI pitch hundreds of times, what makes you different?
+	- Virality is helpful; easier to scale (does marketing for you)
