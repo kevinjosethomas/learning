@@ -1,4 +1,4 @@
-
+[Paper](https://arxiv.org/abs/2305.17714)
 ### Introduction
 - Sign language systems are complicated, and its hard to compare methods across publications
 	- This paper is completely opensource, and it provides an implementation of text-to-gloss-to-pose-to-video for German, Swiss, French, and Italian sign language

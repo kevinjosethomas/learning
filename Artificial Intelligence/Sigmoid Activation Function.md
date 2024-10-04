@@ -1,4 +1,4 @@
-The sigmoid function is a mathematical [[Activation Functions|activation function]] that represents [[Logistic Regression]].
+The sigmoid function is a mathematical [[Activation Function|activation function]] that represents [[Logistic Regression]].
 
 ![[Pasted image 20240604101122.png]]
 

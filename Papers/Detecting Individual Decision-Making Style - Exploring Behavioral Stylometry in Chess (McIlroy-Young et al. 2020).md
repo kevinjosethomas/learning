@@ -1,7 +1,6 @@
 [Paper](https://papers.nips.cc/paper/2021/file/ccf8111910291ba472b385e9c5f59099-Paper.pdf)
 
 ## Introduction
-
 - Machine learning models have surpassed human decision-making in many domains
   - This has led to people building AI models that interact with humans
   - The goal is to interact and collaborate with humans
@@ -72,3 +71,9 @@
 ![[7 18 2024 5 29 PM_Scan_8.jpg]]
 ![[7 18 2024 5 29 PM_Scan_9.jpg]]
 ![[7 18 2024 5 29 PM_Scan_10.jpg]]
+# Script
+What if you could identify a chess player just by looking at the moves they make? This paper by researchers from the University of Toronto, Microsoft Research, and Cornell University explore the concept of behavioural stylometry – essentially, recognizing a person by looking at their actions alone.
+
+Beyond being really cool and scary, it shows how AI can be used to understand and mimic human decision-making styles. The model works by breaking down the chess game into sequences of moves and analyzing them at multiple levels. It first looks at individual moves, then aggregates these to understand the game as a whole, and finally compiles a profile of the player's style. Essentially, it is kind of an embedding model for chess player styles.
+
+But if such detailed behavioral analysis can identify a chess player so accurately, what happens when this technology is applied to more sensitive areas? Privacy concerns are real, and the ability to de-anonymize people just from their choices is a frightening prospect
