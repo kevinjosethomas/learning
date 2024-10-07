@@ -1,7 +1,4 @@
 # 🔭 Learning
-
-> "You only focus on the fruits; you should be learning because you want to learn," and so I began...
-
 This repository contains my [Obsidian](https://obsidian.md/) notes for all the different things I've been reading and learning...
 
 ## Table of Contents
