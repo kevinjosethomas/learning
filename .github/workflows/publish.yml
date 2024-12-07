@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: kevinjosethomas/learning
+  BLOG_REPO: kevinjosethomas/knowledgeweb
   PUBLISH_DIR: ./
 on:
   workflow_dispatch:
