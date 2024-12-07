@@ -36,4 +36,4 @@ jobs:
           git commit -m 'chore: Add table of contents to subdirectories'
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
