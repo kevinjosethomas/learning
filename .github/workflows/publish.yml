@@ -6,6 +6,10 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Generate TOC"]
+    types:
+      - completed
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -35,7 +39,6 @@ jobs:
       - name: Deploy Vercel
         uses: amondnet/vercel-action@v20
         with:
-          # TODO: Update Github Secrets with values
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
