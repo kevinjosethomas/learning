@@ -12,3 +12,4 @@
 - [Quantifying social organization and political polarization in online platforms (Waller & Anderson 2021)](Quantifying social organization and political polarization in online platforms (Waller & Anderson 2021).md)
 - [ToonCrafter - Generative Cartoon Interpolation (Xing et al. 2024)](ToonCrafter - Generative Cartoon Interpolation (Xing et al. 2024).md)
 - [index](index.md)
+- [signwriting-evaluation — Effective Sign Language Evaluation via SignWriting](signwriting-evaluation — Effective Sign Language Evaluation via SignWriting.md)
