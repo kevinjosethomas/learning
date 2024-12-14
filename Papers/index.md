@@ -7,6 +7,7 @@
 - [How Constraints Affect Content - The Case of Twitter’s Switch from 140 to 280 Characters (Gligorić et al.  2018)](How Constraints Affect Content - The Case of Twitter’s Switch from 140 to 280 Characters (Gligorić et al.  2018).md)
 - [ICL Markup - Structuring In-Context Learning using Soft-Token Tags (Brunet et al. 2023)](ICL Markup - Structuring In-Context Learning using Soft-Token Tags (Brunet et al. 2023).md)
 - [Implications of Model Indeterminacy for Explanations of Automated Decisions (Brunet et al.  2022)](Implications of Model Indeterminacy for Explanations of Automated Decisions (Brunet et al.  2022).md)
+- [Machine Translation between Spoken Languages and Signed LanguagesRepresented in SignWriting (Jiang et al. 2023)](Machine Translation between Spoken Languages and Signed LanguagesRepresented in SignWriting (Jiang et al. 2023).md)
 - [Mimetic Models - Ethical Implications of AI that Acts Like You](Mimetic Models - Ethical Implications of AI that Acts Like You.md)
 - [Neural Machine Translation By Jointly Learning to Align and Translate (Bahdanau, et al. 2015)](Neural Machine Translation By Jointly Learning to Align and Translate (Bahdanau, et al. 2015).md)
 - [Quantifying social organization and political polarization in online platforms (Waller & Anderson 2021)](Quantifying social organization and political polarization in online platforms (Waller & Anderson 2021).md)
